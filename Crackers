@@ -104,7 +104,7 @@ window:Button("Ragdoll Engine",function()
 end)
 
 window:Button("Prison Life Admin",function()
-    locadstring(game:HttpGet(('https://pastebin.com/raw/7hpa2kjD'),true))()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/7hpa2kjD'),true))()
 end)
 
 window:Button("Remote Spy", function()
